@@ -27,6 +27,10 @@ li {
   list-style: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .temperature {
   color: rgb(33, 33, 33);
   font-size: 64px;
@@ -48,11 +52,4 @@ li {
     font-size: 25px;
     margin: 50px auto;
     padding: 15px 20px;
-}
-
-.link {
-    font-family: 'Anek Malayalam', sans-serif;
-    text-align: left;
-    padding: 5px 30px;
-
 }
