@@ -49,3 +49,10 @@ li {
     margin: 50px auto;
     padding: 15px 20px;
 }
+
+.link {
+    font-family: 'Anek Malayalam', sans-serif;
+    text-align: left;
+    padding: 5px 30px;
+
+}
